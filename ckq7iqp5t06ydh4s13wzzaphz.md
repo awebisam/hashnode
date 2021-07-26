@@ -1,4 +1,4 @@
-## Encrypting objects in Django with secret key.
+## Django Tip | Encrypting objects in Django with secret key.
 
 Hi everyone.
 Let's talk about encrypting data in Django. 
