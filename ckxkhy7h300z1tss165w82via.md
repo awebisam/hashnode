@@ -48,7 +48,7 @@ countries = Country.objects.filter(
         (
             Q(continent__name__istartswith="A") |
             Q(continent__name__icontains="rica") &
-            ~Q(continent__name__iexact="Asia")
+            ~Q(continent__name__iexact="Africa")
         ) & (
             Q(pci__gt=10000) | Q(is_landlocked=False)
         )
