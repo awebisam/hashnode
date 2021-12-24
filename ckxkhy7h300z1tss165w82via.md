@@ -7,7 +7,7 @@ But, there comes a stage in our project that it becomes tedious to handle looong
 # Get the countries with name that starts with N or ends with L
 countries = Country.objects.filter(name__istartswith="N") |
      Country.objects.filter(name__iendswith="l")
-# Django queryset support & as and and | as or.
+# Django querysets support & as and and | as or.
 ``` 
 
 Here is where *Q* object makes an entry. 
