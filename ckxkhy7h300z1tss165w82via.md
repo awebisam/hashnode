@@ -1,4 +1,4 @@
-## Mastering Django ORM. Use Q objects to filter Django Queryset.
+## Mastering Django ORM I | Use Q objects to filter Django Queryset.
 
 We all know that we can use Django ORM as a high-level interface to interact with databases. And we can use normal methods like `get()`, `filter()` to narrow down our search.
 But, there comes a stage in our project that it becomes tedious to handle looong lines and chains of filtering. Such as:
