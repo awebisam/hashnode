@@ -11,7 +11,8 @@ I get a lot of messages from people asking what would be best for them. I will t
 Short answer: No. But maybe...??
 
 Long answer: If you want to work in a well-paying job and keep getting better at what you do, a degree is not required. You will learn things in college but it might not be enough for you to get going. So, prepare a plan for learning what you want to do. If you are not sure about that then, try a few things and pick what clicks for you. There are a lot of companies who do not care what you studied at college or if you even went to college at all. Having said that, we can not deny the fact that a lot of jobs still require a degree so, you might wanna pursue one maybe just to be on the safe side [it's completely up to you]. Also, have very less expectations from your college. Almost all colleges only focus on making you a good student. The gap between academics and the real world is really big and that's what you yourself should build a bridge for. 
-
+Do consider joining groups and communities like [Ask Buddie](https://www.facebook.com/groups/124814721420217), [ITSNP](https://www.facebook.com/groups/itsnporg), and more to connect with people and to help and get helped.
+ 
 ### 2. Is studying IT abroad better than studying in Nepal?
 
 Short Answer: Well, yes. But, there is a catch.
